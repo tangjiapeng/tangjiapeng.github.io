@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Yabin Zhang (张亚斌)"
+title: "Tang Jiapeng (唐佳鹏)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://YBZh.github.io/files/yabinzhang_cv.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://tangjiapeng.github.io/files/jptang_cv.pdf)
 
