@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yabin Zhang"
+title                    : "Jiapeng Tang"
 title_separator          : "-"
-name                     : &name "Yabin Zhang"
+name                     : &name "Jiapeng Tang"
 description              : &description "Postgraduate of School of Electronic and Information Engineering, South China University of Technology"
-url                      : https://YBZh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tangjiapeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YBZh/YBZh.github.io"
+repository               : "tangjiapeng/tangjiapeng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yabin Zhang"
-  avatar           : "yabinzhang.jpg"
+  name             : "Jiapeng Tang"
+  avatar           : "jiapengtang.jpg"
   bio              : "Postgraduate of School of Electronic and Information Engineering, South China University of Technology"
   location         : "Guangzhou China"
   employer         :
   googlescholar    : 
-  email            : ybzhang815@gmail.com
+  email            : tangjiapengtjp@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : YBZh
+  github           : tangjiapeng
   google_plus      :
   keybase          :
   instagram        :

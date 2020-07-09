@@ -12,8 +12,8 @@ main:
   # - title: "Professional"
   #   url: /professional_activities/
 
-  - title: "Awards"
-    url: /awards/
+  # - title: "Awards"
+  #   url: /awards/
 
   - title: "Contact"
     url: /contact/
