@@ -1,6 +1,5 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publications[(Google Scholar Profile)]()"
 permalink: /publications/
 author_profile: true
 ---
@@ -15,4 +14,4 @@ via Topology Modification Networks](https://openaccess.thecvf.com/content_ICCV_2
 
 ## Journal Paper
 
-<b>[SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_A_Skeleton-Bridged_Deep_Learning_Approach_for_Generating_Meshes_of_Complex_CVPR_2019_paper.pdf)</b> <br> <b>Jiapeng Tang</b>\*, Xiaoguang Han, Kui Jia, Leizhang and Xin Tong. <i> submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.</i>
+<b>[SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_A_Skeleton-Bridged_Deep_Learning_Approach_for_Generating_Meshes_of_Complex_CVPR_2019_paper.pdf)</b> <br> <b>Jiapeng Tang</b>\*, Xiaoguang Han, Kui Jia, Leizhang and Xin Tong. <i> submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.</i> 
