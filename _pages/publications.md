@@ -14,5 +14,5 @@ via Topology Modification Networks](https://openaccess.thecvf.com/content_ICCV_2
 
 ## Journal Paper
 
-<b>[SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images]()<b> <br> <b>Jiapeng Tang</b>\*, Xiaoguang Han, Mingkui Tan, Xin Tong and Kui Jia. <i> submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.</i>
+<b>[SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images](https://arxiv.org/pdf/2008.05742.pdf)<b> <br> <b>Jiapeng Tang</b>\*, Xiaoguang Han, Mingkui Tan, Xin Tong and Kui Jia. <i> submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.</i>
 
