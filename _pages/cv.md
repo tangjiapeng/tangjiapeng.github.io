@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://tangjiapeng.github.io/files/jptang_cv.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://tangjiapeng.github.io/files/jptang_cv-1.pdf)
 
