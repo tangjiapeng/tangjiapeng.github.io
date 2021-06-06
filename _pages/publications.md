@@ -13,11 +13,10 @@ of Complex Topologies from Single RGB Images</b> <br> <b>Jiapeng Tang</b>\*, Xia
 via Topology Modification Networks</b> <br> Junyi Pan, Xiaoguang Han, Weikai Chen, <b>Jiapeng Tang</b> and Kui Jia. <i>International Conference on Computer Vision (ICCV), 2019.</i> [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pan_Deep_Mesh_Reconstruction_From_Single_RGB_Images_via_Topology_Modification_ICCV_2019_paper.pdf) [[Code]](https://github.com/jnypan/TMNet)
 
 <b>Learning Parallel Dense Correspondence from Spatio-Temporal Descriptors
-for Efficient and Robust 4D Reconstruction</b> <br> <b>Jiapeng Tang</b>\*, Dan Xu, Kui Jia, and Lei Zhang. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2021.</i> [[arXiv]](https://arxiv.org/pdf/2103.16341.pdf)) [[Homepage]](https://tangjiapeng.github.io/LPDC-Net) [[Video]](https://youtu.be/dhmuuzfRpNs) [[Code]](https://github.com/tangjiapeng/LPDC-Net)
+for Efficient and Robust 4D Reconstruction</b> <br> <b>Jiapeng Tang</b>\*, Dan Xu, Kui Jia, and Lei Zhang. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2021.</i> [[arXiv]](https://arxiv.org/pdf/2103.16341.pdf) [[Homepage]](https://tangjiapeng.github.io/LPDC-Net) [[Video]](https://youtu.be/dhmuuzfRpNs) [[Code]](https://github.com/tangjiapeng/LPDC-Net)
 
 <b>Sign-Agnostic CONet: Learning Implicit Surface Reconstructions by Sign-Agnostic Optimization of Convolutional Occupancy Networks</b> <br> <b>Jiapeng Tang</b>\*, Jiabao Lei, Dan Xu, Feiying Ma, Kui Jia, and Lei Zhang. <i>arXiv preprint 2021.</i> [[arXiv]](https://arxiv.org/abs/2105.03582)
 
 ## Journal Paper
 
-<b>SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images<b> <br> <b>Jiapeng Tang</b>\*, Xiaoguang Han, Mingkui Tan, Xin Tong and Kui Jia. <i> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.</i> [[arXiv]](https://arxiv.org/pdf/2008.05742.pdf) [[Code]](https://github.com/tangjiapeng/SkeletonNet)
-
+<b>SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images</b> <br> <b>Jiapeng Tang</b>\*, Xiaoguang Han, Mingkui Tan, Xin Tong and Kui Jia. <i> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.</i> [[arXiv]](https://arxiv.org/pdf/2008.05742.pdf) [[Code]](https://github.com/tangjiapeng/SkeletonNet)
