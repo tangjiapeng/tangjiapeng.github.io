@@ -15,7 +15,7 @@ via Topology Modification Networks</b> <br> Junyi Pan, Xiaoguang Han, Weikai Che
 <b>Learning Parallel Dense Correspondence from Spatio-Temporal Descriptors
 for Efficient and Robust 4D Reconstruction</b> <br> <b>Jiapeng Tang</b>\*, Dan Xu, Kui Jia, and Lei Zhang. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2021.</i> [[arXiv]](https://arxiv.org/pdf/2103.16341.pdf) [[Homepage]](https://tangjiapeng.github.io/LPDC-Net) [[Video]](https://youtu.be/dhmuuzfRpNs) [[Code]](https://github.com/tangjiapeng/LPDC-Net)
 
-<b>Sign-Agnostic CONet: Learning Implicit Surface Reconstructions by Sign-Agnostic Optimization of Convolutional Occupancy Networks</b> <br> <b>Jiapeng Tang</b>\*, Jiabao Lei, Dan Xu, Feiying Ma, Kui Jia, and Lei Zhang. <i>arXiv preprint 2021.</i> [[arXiv]](https://arxiv.org/abs/2105.03582)
+<b>Sign-Agnostic CONet: Learning Implicit Surface Reconstructions by Sign-Agnostic Optimization of Convolutional Occupancy Networks</b> <br> <b>Jiapeng Tang</b>\*, Jiabao Lei, Dan Xu, Feiying Ma, Kui Jia, and Lei Zhang. <i> International Conference on Computer Vision (ICCV), 2021.</i> <b>Oral representation</b> [[arXiv]](https://arxiv.org/abs/2105.03582) [[Code]]()
 
 ## Journal Paper
 
