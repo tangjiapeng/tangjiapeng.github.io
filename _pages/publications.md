@@ -19,4 +19,4 @@ for Efficient and Robust 4D Reconstruction</b> <br> <b>Jiapeng Tang</b>\*, Dan X
 
 ## Journal Paper
 
-<b>SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images</b> <br> <b>Jiapeng Tang</b>\*, Xiaoguang Han, Mingkui Tan, Xin Tong and Kui Jia. <i> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.</i> [[arXiv]](https://arxiv.org/pdf/2008.05742.pdf) [[Code]](https://github.com/tangjiapeng/SkeletonNet)
+<b>SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images</b> <br> <b>Jiapeng Tang</b>\*, Xiaoguang Han, Mingkui Tan, Xin Tong and Kui Jia. <i> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.</i> [[PDF]](https://ieeexplore.ieee.org/document/9448418) [[arXiv]](https://arxiv.org/pdf/2008.05742.pdf) [[Code]](https://github.com/tangjiapeng/SkeletonNet)
