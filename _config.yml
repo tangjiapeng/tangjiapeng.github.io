@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiapeng Tang"
 title_separator          : "-"
 name                     : &name "Jiapeng Tang"
-description              : &description "Master student of School of Electronic and Information Engineering, South China University of Technology"
+description              : &description "Ph.D. student at the Department of Computer Science, Technical University of Munich"
 url                      : https://tangjiapeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tangjiapeng/tangjiapeng.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Jiapeng Tang"
   avatar           : "jptang_2022.jpeg"
-  bio              : "Master student of School of Electronic and Information Engineering, South China University of Technology"
+  bio              : "Ph.D. student at the Department of Computer Science, Technical University of Munich"
   location         : "Guangzhou China"
   employer         :
   googlescholar    : https://scholar.google.com/citations?user=llkY7TEAAAAJ&hl=zh-CN
