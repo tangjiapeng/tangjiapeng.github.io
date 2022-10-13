@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiapeng Tang"
-  avatar           : "jptang_202204.jpg"
+  avatar           : "jptang_202210.jpeg"
   bio              : "Ph.D. student at the Department of Computer Science, Technical University of Munich"
   location         : "Munich Germany"
   employer         :
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/jiapeng-tang-704a8b22b/
   orcid            : 
   pinterest        :
   soundcloud       :
