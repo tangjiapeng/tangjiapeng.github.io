@@ -193,6 +193,8 @@
           </p>
         </div>
         <div class="content has-text-centered">
+
+         <!--
           <img src="source_cat.png" style="width:33%; margin-right:auto; margin-left:auto; margin-top:auto;">
 
             <video id="replay-video"
@@ -234,14 +236,25 @@
             <source src="https://drive.google.com/file/d/1elMvmJl1WRTUfCE44j9QWsK4rtJRqjrD/view?usp=sharing"
                     type="video/mp4">
           </video>
+        -->
 
+        <video id="replay-video"
+                 controls
+                 muted
+                 preload
+                 playsinline
+                 width="100%">
+            <source src="./animation.mp4"
+                    type="video/mp4">
+          </video>
+
+        <!--
           <div class="main" style="margin:auto; width:100%;">
             <div  class="sub1" style=" width:33%; float:left;"> Source meshes and selected handles </div>
             <div class="sub1" style=" width:33%; float:left; ">Target handles</div>
             <div class="sub1" style=" width:33%; float:left;">Deformation results</div>
           </div>
 
-        <!--
           <div class="main"  style=" margin:auto; width:100%; height:102px; border:solid 1px #000000;">
             <div  class="sub1" style=" width:32%; height:100px; border:solid 1px blue; float:left; margin-left:1%;"></div>
             <div class="sub1" style=" width:32%; height:100px; border:solid 1px red; float:left; margin-left:1%;"></div>
