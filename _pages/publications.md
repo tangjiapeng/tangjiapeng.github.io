@@ -6,7 +6,7 @@ author_profile: true
 
 ## Conference Paper
 
-<b>Neural Shape Deformation Priors</b> <br> <b>Jiapeng Tang</b>\*, Lev Markhasin, Bi Wang, Justus Thies, Matthias Nießner. <i> Neural Information Processing Systems (NeurIPS), 2022.</i> [[arXiv]](https://arxiv.org/pdf/2210.05616.pdf) [[Homepage]](https://tangjiapeng.github.io/projects/NSDP/) [[Video]](https://youtu.be/neKuf85H0nE)  [[Code]](https://github.com/tangjiapeng/NSDP) 
+<b>Neural Shape Deformation Priors</b> <br> <b>Jiapeng Tang</b>\*, Lev Markhasin, Bi Wang, Justus Thies, Matthias Nießner. <i> Neural Information Processing Systems (NeurIPS), 2022.</i> <b>Spotlight representation</b> [[arXiv]](https://arxiv.org/pdf/2210.05616.pdf) [[Homepage]](https://tangjiapeng.github.io/projects/NSDP/) [[Video]](https://youtu.be/neKuf85H0nE)  [[Code]](https://github.com/tangjiapeng/NSDP) 
 
 <b>PVSeRF: Joint Pixel-, Voxel- and Surface-Aligned Radiance Field for Single-Image Novel View Synthesis</b> <br>  Xianggang Yu, <b>Jiapeng Tang</b>\*, Yipeng Qin, Chenghong Li, Linchao Bao, Xiaoguang Han, Shuguang Cui. [[PDF]](https://arxiv.org/abs/2202.04879)
 
