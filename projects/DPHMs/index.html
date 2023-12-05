@@ -301,7 +301,12 @@
                           <video poster="" autoplay="" muted loop="" style="pointer-events: none; width:100%;">
                               <source src="./static/videos/gallery/gallery4.mp4" type="video/mp4">
                           </video>
-                      </div>
+                        </div>
+                        <div class="item-5">
+                          <video poster="" autoplay="" muted loop="" style="pointer-events: none; width:100%;">
+                              <source src="./static/videos/gallery/gallery5.mp4" type="video/mp4">
+                          </video>
+                        </div>
                     </div>
             </div>
             <!-- End Hero Carousel -->
@@ -333,7 +338,7 @@
                 that can be decoded into continuous signed distance fields \( O \) by identity and expression decoders. To align with the observations, we calculate data terms \( L_{sdf} \) and Lnorm between \( I \) and \( O \). 
                 However, high-level noise still makes navigating the latent optimization extremely challenging. 
                 At the core of our method is an effective latent regularization using diffusion priors; we add Gaussian noises to \( \mathcal{Z} \) and then pass them into identity and expression diffusion models to predict perturbed noise \( \mathbf{\epsilon} \) for updating \( \mathcal{Z} \). 
-                The diffusion regularizer guides \( \mathbf{z}^{id} \) and \( \mathbf{z}^{ex}_i \) towards the individual manifold of their distributions via \( \mathbf{\epsilon}^{id} \) and $\( \mathbf{\epsilon}^{ex} \)$, ensuring plausible head geometry reconstruction and robust tracking. To enhance
+                The diffusion regularizer guides \( \mathbf{z}^{id} \) and \( \mathbf{z}^{ex}_i \) towards the individual manifold of their distributions via \( \mathbf{\epsilon}^{id} \) and \( \mathbf{\epsilon}^{ex} \), ensuring plausible head geometry reconstruction and robust tracking. To enhance
                 temporal coherence, \( L_{temp} \) penalizes inconsistency between \(\mathbf{z}^{ex}_i\)  of nearby frames. 
               </p>
             </div>
