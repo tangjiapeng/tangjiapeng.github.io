@@ -2,10 +2,15 @@
 title: "Publications[(Google Scholar Profile)](https://scholar.google.com/citations?user=llkY7TEAAAAJ&hl=zh-CN)"
 permalink: /publications/
 author_profile: true
----
+
+\* Joint first author \# Corresponding author
 
 ## Conference Paper
-<b>DiffuScene: Scene Graph Denoising Diffusion Probabilistic Model for Generative Indoor Scene Synthesis</b> <br> <b>Jiapeng Tang</b>, Yinyu Nie, Lev Markhasin, Angela Dai, Justus Thies, Matthias Nießner. <i> preprint </i> [[arXiv]](https://arxiv.org/abs/2303.14207.pdf) [[Homepage]](https://tangjiapeng.github.io/projects/DiffuScene/) [[Video]](https://www.youtube.com/embed/VkBey2ZHA6E)  [[Code]](https://github.com/tangjiapeng/DiffuScene)  
+<b>DPHMs: Diffusion Parametric Head Models for Depth-based Tracking</b> <br> <b>Jiapeng Tang</b>, Angela Dai, Yinyu Nie, Lev Markhasin, Justus Thies, Matthias Nießner. <b><i> preprint </i></b> [[arXiv]](https://arxiv.org/abs/2312.01068.pdf) [[Homepage]](https://tangjiapeng.github.io/projects/DPHMs/) [[Video]](https://www.youtube.com/embed/w_EJ5LDJ7T4)  [[Code]](https://github.com/tangjiapeng/DPHMs)  
+
+<b>Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking</b> <br> Wei Cao\*, Chang Luo\*, Biao Zhang, Matthias Nießner, <b>Jiapeng Tang<sup>\#</sup></b>. <b><i> preprint, supervising master thesis project </i></b> [[arXiv]](https://arxiv.org/abs/2312.01068.pdf) [[Homepage]](https://vveicao.github.io/projects/Motion2VecSets/) [[Video]](https://youtu.be/aKfmzxTyU_I)  [[Code]](https://github.com/VVeiCao/Motion2VecSets)  
+
+<b>DiffuScene: Denoising Diffusion Probabilistic Model for Generative Indoor Scene Synthesis</b> <br> <b>Jiapeng Tang</b>, Yinyu Nie, Lev Markhasin, Angela Dai, Justus Thies, Matthias Nießner. <b><i> preprint </i></b> [[arXiv]](https://arxiv.org/abs/2303.14207.pdf) [[Homepage]](https://tangjiapeng.github.io/projects/DiffuScene/) [[Video]](https://www.youtube.com/embed/VkBey2ZHA6E)  [[Code]](https://github.com/tangjiapeng/DiffuScene)  
 
 <b>3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models</b> <br> Biao Zhang, <b>Jiapeng Tang</b>, Matthias Niessner, Peter Wonka. <i> SIGGRAPH 2023 (Journal Track)</i> [[arXiv]](https://arxiv.org/pdf/2301.11445.pdf) [[Homepage]](https://1zb.github.io/3DShape2VecSet/) [[Video]](https://www.youtube.com/watch?v=KKQsQccpBFk)  [[Code]](https://github.com/1zb/3DShape2VecSet)  
 
