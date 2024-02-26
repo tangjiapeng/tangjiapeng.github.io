@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="description"
-        content="DiffuScene learns 3D scene graph diffusion for scene synthesis.">
-  <meta name="keywords" content="Scene Synthesis, Scene Graph, Diffusion Models">
+        content="DiffuScene learns 3D diffusion for scene synthesis.">
+  <meta name="keywords" content="Scene Synthesis, Diffusion Models">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>DiffuScene: Scene Graph Denoising Diffusion Probabilistic Model for
+  <title>DiffuScene: Denoising Diffusion Model for
     Generative Indoor Scene Synthesis</title>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -70,6 +70,9 @@
           <a class="navbar-item" href="https://tangjiapeng.github.io/projects/NSDP/">
             NSDP
           </a>
+          <a class="navbar-item" href="https://tangjiapeng.github.io/projects/DPHMs/">
+            DPHMs
+          </a>
         </div>
         </div>
       </div>
@@ -84,7 +87,7 @@
     <div class="container is-max-desktop">
       <div class="columns is-centered">
         <div class="column has-text-centered">
-          <h1 class="title is-1 publication-title">DiffuScene: Scene Graph Denoising Diffusion Probabilistic Model for
+          <h1 class="title is-1 publication-title">DiffuScene: Denoising Diffusion Model for
             Generative Indoor Scene Synthesis</h1>
           <div class="is-size-5 publication-authors">
             <span class="author-block">
@@ -106,7 +109,7 @@
 
           <div class="is-size-5 publication-authors">
             <span class="author-block"><sup>1</sup>Technical University of Munich</span>
-            <span class="author-block"><sup>2</sup>Sony Europe RDC</span>
+            <span class="author-block"><sup>2</sup>Sony Semiconductor Solutions Europe</span>
             <p> 
             </p>
             <span class="author-block"><sup>3</sup>Max Planck Institute for Intelligent Systems</span>
@@ -170,6 +173,7 @@
                   type="video/mp4">
         </video>
       -->
+
       <img src="teaser.png" style="width:100%; margin-right:auto; margin-left:auto; margin-top:auto;">
       <h2 class="subtitle has-text-centered">
         We present <span class="dnerf">DiffuScene</span>, a diffusion model for diverse and realistic indoor scene synthesis.
@@ -275,22 +279,14 @@ scene generation from a text prompt describing partial scene configurations. (ri
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            We present DiffuScene for indoor 3D scene synthesis
-            based on a novel scene graph denoising diffusion prob-
-            abilistic model, which generates 3D instance properties
-            stored in a fully-connected scene graph and then retrieves
-            the most similar object geometry for each graph node i.e.
-            object instance which is characterized as a concatenation of
-            different attributes, including location, size, orientation, se-
-            mantic, and geometry features. Based on this scene graph,
-            we designed a diffusion model to determine the placements
-            and types of 3D instances. Our method can facilitate
-            many downstream applications, including scene comple-
-            tion, scene arrangement, and text-conditioned scene syn-
-            thesis. Experiments on the 3D-FRONT dataset show that
-            our method can synthesize more physically plausible and
-            diverse indoor scenes than state-of-the-art methods. Extensive ablation studies verify the effectiveness of our design
-            choice in scene diffusion models.
+            We present DiffuScene for indoor 3D scene synthesis based on a novel scene configuration denoising diffusion model. 
+            It generates 3D instance properties stored in an unordered object set and retrieves the most similar geometry for each object configuration, 
+            which is characterized as a concatenation of different attributes, including location, size, orientation, semantics, and geometry features.
+            We introduce a diffusion network to synthesize a collection of 3D indoor objects by denoising a set of unordered object attributes. 
+            Unordered parametrization simplifies and eases the joint distribution approximation. The shape feature diffusion facilitates natural object placements, including symmetries.
+            Our method enables many downstream applications, including scene completion, scene arrangement, and text-conditioned scene synthesis.
+            Experiments on the 3D-FRONT dataset show that our method can synthesize more physically plausible and diverse indoor scenes than state-of-the-art methods. 
+            Extensive ablation studies verify the effectiveness of our design choice in scene diffusion model.
           </p>
         </div>
       </div>
@@ -360,7 +356,7 @@ scene generation from a text prompt describing partial scene configurations. (ri
                     type="video/mp4">
           </video>
       </div>
-      <!-- <div class="column">
+      <div class="column">
         <video id="completion-bed-atiss-2" autoplay controls muted loop playsinline height="100%">
           <source src="./static/videos/completion/Bedroom-17102_713-atiss-480x480.mkv"
                   type="video/mp4">
@@ -371,7 +367,7 @@ scene generation from a text prompt describing partial scene configurations. (ri
           <source src="./static/videos/completion/Bedroom-17102_150_004-480x480.mkv"
                   type="video/mp4">
         </video>
-      </div> -->
+      </div>
       <div class="column">
         <video id="completion-bed-ours-2" autoplay controls muted loop playsinline height="100%">
           <source src="./static/videos/completion/Bedroom-17102_150_013-480x480.mkv"
@@ -396,7 +392,7 @@ scene generation from a text prompt describing partial scene configurations. (ri
           </video>
           <h2 class="subtitle is-4 has-text-centered">ATISS</h2>
       </div>
-      <!-- <div class="column">
+      <div class="column">
         <video id="completion-dining-atiss-2" autoplay controls muted loop playsinline height="100%">
           <source src="./static/videos/completion/LivingDiningRoom-69704_153_001-atiss.mkv"
                   type="video/mp4">
@@ -409,13 +405,13 @@ scene generation from a text prompt describing partial scene configurations. (ri
                     type="video/mp4">
           </video>
           <h2 class="subtitle is-4 has-text-centered">Ours-1</h2>
-      </div> -->
+      </div>
       <div class="column">
         <video id="completion-dining-ours-2" autoplay controls muted loop playsinline height="100%">
           <source src="./static/videos/completion/LivingDiningRoom-69704_153_019.mkv"
                   type="video/mp4">
         </video>   
-        <h2 class="subtitle is-4 has-text-centered">Ours</h2>
+        <h2 class="subtitle is-4 has-text-centered">Ours-2</h2>
       </div>
     </div>
     <!--/ Scene Completion. -->
@@ -432,19 +428,25 @@ scene generation from a text prompt describing partial scene configurations. (ri
     <div class="columns is-centered">
       <div class="column">
           <video id="rearrange-1-noisy" autoplay controls muted loop playsinline height="100%">
-            <source src="./static/videos/rearrange/LivingDiningRoom-13177_88_442-partial.mkv"
+            <source src="./static/videos/rearrange_new/Bedroom-430_9_657-partial.mkv"
                     type="video/mp4">
           </video>         
       </div>
       <div class="column">
           <video id="rearrange-1-atiss" autoplay controls muted loop playsinline height="100%">
-            <source src="./static/videos/rearrange/LivingDiningRoom-13177_88_088-atiss.mkv"
+            <source src="./static/videos/rearrange_new/Bedroom-430_9_657-atiss.mkv"
                     type="video/mp4">
           </video>
       </div>
       <div class="column">
+        <video id="rearrange-1-lego" autoplay controls muted loop playsinline height="100%">
+          <source src="./static/videos/rearrange_new/Bedroom-430_9_657-lego.mkv"
+                  type="video/mp4">
+        </video>
+    </div>
+      <div class="column">
         <video id="rearrange-1-ours" autoplay controls muted loop playsinline height="100%">
-          <source src="./static/videos/rearrange/LivingDiningRoom-13177_88_005.mkv"
+          <source src="./static/videos/rearrange_new/Bedroom-430_9_657-ours.mkv"
                   type="video/mp4">
         </video>   
       </div>
@@ -454,21 +456,28 @@ scene generation from a text prompt describing partial scene configurations. (ri
     <div class="columns is-centered">
       <div class="column">
           <video id="rearrange-2-noisy" autoplay controls muted loop playsinline height="100%">
-            <source src="./static/videos/rearrange/LivingDiningRoom-79295_184_184_new-partial.mkv"
+            <source src="./static/videos/rearrange_new/LivingDiningRoom-2917_134_000-partial.mkv"
                     type="video/mp4">
           </video>    
           <h2 class="subtitle is-4 has-text-centered">Noisy Scenes</h2>     
       </div>
       <div class="column">
           <video id="rearrange-2-atiss" autoplay controls muted loop playsinline height="100%">
-            <source src="./static/videos/rearrange/LivingDiningRoom-79295_184_184_new-atiss.mkv"
+            <source src="./static/videos/rearrange_new/LivingDiningRoom-2917_134_000-atiss.mkv"
                     type="video/mp4">
           </video>
           <h2 class="subtitle is-4 has-text-centered">ATISS</h2>
       </div>
       <div class="column">
+        <video id="rearrange-2-lego" autoplay controls muted loop playsinline height="100%">
+          <source src="./static/videos/rearrange_new/LivingDiningRoom-2917_134_000-lego.mkv"
+                  type="video/mp4">
+        </video>
+        <h2 class="subtitle is-4 has-text-centered">LEGO</h2>
+    </div>
+      <div class="column">
         <video id="rearrange-2-ours" autoplay controls muted loop playsinline height="100%">
-          <source src="./static/videos/rearrange/LivingDiningRoom-79295_184_006_new.mkv"
+          <source src="./static/videos/rearrange_new/LivingDiningRoom-2917_134_000-ours.mkv"
                   type="video/mp4">
         </video>   
         <h2 class="subtitle is-4 has-text-centered">Ours</h2>
@@ -606,8 +615,7 @@ scene generation from a text prompt describing partial scene configurations. (ri
     <h2 class="title">BibTeX</h2>
     <pre><code>@inproceedings{
     tang2023diffuscene,
-    title={DiffuScene: Scene Graph Denoising Diffusion Probabilistic Model for
-      Generative Indoor Scene Synthesis},
+    title={DiffuScene: Denoising Diffusion Probabilistic Model for Generative Indoor Scene Synthesis},
     author={Tang, Jiapeng and Nie Yinyu and Markhasin Lev and Dai Angela and Thies Justus and Nie{\ss}ner, Matthias},
     booktitle={arxiv},
     year={2023},
@@ -623,7 +631,7 @@ scene generation from a text prompt describing partial scene configurations. (ri
          href="https://arxiv.org/pdf/2210.05616.pdf">
         <i class="fas fa-file-pdf"></i>
       </a>
-      <a class="icon-link" href="https://github.com/tangjiapeng/NSDP" class="external-link" disabled>
+      <a class="icon-link" href="hhttps://github.com/tangjiapeng/DiffuScene" class="external-link" disabled>
         <i class="fab fa-github"></i>
       </a>
     </div>
