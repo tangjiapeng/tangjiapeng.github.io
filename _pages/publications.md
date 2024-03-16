@@ -10,7 +10,7 @@ author_profile: true
 
 <b>Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking</b> <br> Wei Cao\*, Chang Luo\*, Biao Zhang, Matthias Nießner, <b>Jiapeng Tang#</b>. <b>CVPR 2024, supervising master thesis project.</b> [[arXiv]](https://arxiv.org/abs/2312.01068.pdf) [[Homepage]](https://vveicao.github.io/projects/Motion2VecSets/) [[Video]](https://youtu.be/aKfmzxTyU_I)  [[Code]](https://github.com/VVeiCao/Motion2VecSets)  
 
-<b>DiffuScene: Denoising Diffusion Models for Generative Indoor Scene Synthesis</b> <br> <b>Jiapeng Tang</b>, Yinyu Nie, Lev Markhasin, Angela Dai, Justus Thies, Matthias Nießner. <b> CVPR 2024.</b> [[arXiv]](https://arxiv.org/abs/2303.14207.pdf) [[Homepage]](https://tangjiapeng.github.io/projects/DiffuScene/) [[Video]](https://www.youtube.com/embed/VkBey2ZHA6E)  [[Code]](https://github.com/tangjiapeng/DiffuScene)  
+<b>DiffuScene: Denoising Diffusion Models for Generative Indoor Scene Synthesis</b> <br> <b>Jiapeng Tang</b>, Yinyu Nie, Lev Markhasin, Angela Dai, Justus Thies, Matthias Nießner. <b> CVPR 2024.</b> [[arXiv]](https://arxiv.org/abs/2303.14207.pdf) [[Homepage]](https://tangjiapeng.github.io/projects/DiffuScene/) [[Video]](https://www.youtube.com/embed/PFi-03T1lN0)  [[Code]](https://github.com/tangjiapeng/DiffuScene)  
 
 <b>3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models</b> <br> Biao Zhang, <b>Jiapeng Tang</b>, Matthias Niessner, Peter Wonka. <b> SIGGRAPH/ToG 2023.</b> [[arXiv]](https://arxiv.org/pdf/2301.11445.pdf) [[Homepage]](https://1zb.github.io/3DShape2VecSet/) [[Video]](https://www.youtube.com/watch?v=KKQsQccpBFk)  [[Code]](https://github.com/1zb/3DShape2VecSet)  
 
