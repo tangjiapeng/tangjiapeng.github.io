@@ -6,9 +6,15 @@ author_profile: true
 \* Joint first author \# Corresponding author
 
 ## Conference Paper
+<b>GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion</b> <br> <b>Jiapeng Tang</b>, Davide Davoli, Tobias Kirschstein, Liam Schoneveld, Matthias Nießner. <b>CVPR 2025.</b> [[arXiv]](https://arxiv.org/abs/2412.10209) [[Homepage]](https://tangjiapeng.github.io/projects/GAF) [[Video]](https://www.youtube.com/embed/QuIYTljvhyg)  [[Code]](https://github.com/tangjiapeng/GAF) 
+
+<b>Monocular and Generalizable Gaussian Talking Head Animation</b> <br> Shengjie Gong, Haojie Li, <b>Jiapeng Tang</b>, Dongming Hu, Shuangping Huang, Hao Chen, Tianshui Chen, Zhuoman Liu. <b>CVPR 2025.</b> [[arXiv]](https://arxiv.org/pdf/2504.00665)  [[Homepage]](https://tangjiapeng.github.io/projects/GAF) [[Video]](https://www.youtube.com/embed/QuIYTljvhyg)  [[Code]](https://github.com/tangjiapeng/GAF) 
+
+<b>KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding</b> <br> Zhihao Xu, Shengjie Gong, <b>Jiapeng Tang</b>, Lingyu Liang, Yining Huang, Haojie Li, Shuangping Huang. <b>ECCV 2024.</b> [[arXiv]](https://arxiv.org/abs/2409.01113)  [[Homepage]](https://tangjiapeng.github.io/projects/GAF) [[Video]](https://www.youtube.com/embed/QuIYTljvhyg)  [[Code]](https://github.com/ffxzh/KMTalk) 
+
 <b>DPHMs: Diffusion Parametric Head Models for Depth-based Tracking</b> <br> <b>Jiapeng Tang</b>, Angela Dai, Yinyu Nie, Lev Markhasin, Justus Thies, Matthias Nießner. <b>CVPR 2024.</b> [[arXiv]](https://arxiv.org/abs/2312.01068.pdf) [[Homepage]](https://tangjiapeng.github.io/projects/DPHMs/) [[Video]](https://www.youtube.com/embed/w_EJ5LDJ7T4)  [[Code]](https://github.com/tangjiapeng/DPHMs)  
 
-<b>Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking</b> <br> Wei Cao\*, Chang Luo\*, Biao Zhang, Matthias Nießner, <b>Jiapeng Tang#</b>. <b>CVPR 2024, supervising master thesis project.</b> [[arXiv]](https://arxiv.org/abs/2312.01068.pdf) [[Homepage]](https://vveicao.github.io/projects/Motion2VecSets/) [[Video]](https://youtu.be/aKfmzxTyU_I)  [[Code]](https://github.com/VVeiCao/Motion2VecSets)  
+<b>Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking</b> <br> Wei Cao\*, Chang Luo\*, Biao Zhang, Matthias Nießner, <b>Jiapeng Tang#</b>. <b>CVPR 2024, master thesis project.</b> [[arXiv]](https://arxiv.org/abs/2312.01068.pdf) [[Homepage]](https://vveicao.github.io/projects/Motion2VecSets/) [[Video]](https://youtu.be/aKfmzxTyU_I)  [[Code]](https://github.com/VVeiCao/Motion2VecSets)  
 
 <b>DiffuScene: Denoising Diffusion Models for Generative Indoor Scene Synthesis</b> <br> <b>Jiapeng Tang</b>, Yinyu Nie, Lev Markhasin, Angela Dai, Justus Thies, Matthias Nießner. <b> CVPR 2024.</b> [[arXiv]](https://arxiv.org/abs/2303.14207.pdf) [[Homepage]](https://tangjiapeng.github.io/projects/DiffuScene/) [[Video]](https://www.youtube.com/embed/PFi-03T1lN0)  [[Code]](https://github.com/tangjiapeng/DiffuScene)  
 
