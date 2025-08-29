@@ -6,6 +6,7 @@ author_profile: true
 \* Joint first author \# Corresponding author
 
 ## Conference Paper
+
 <b>GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion</b> <br> <b>Jiapeng Tang</b>, Davide Davoli, Tobias Kirschstein, Liam Schoneveld, Matthias Nießner. <b>CVPR 2025.</b> [[arXiv]](https://arxiv.org/abs/2412.10209) [[Homepage]](https://tangjiapeng.github.io/projects/GAF) [[Video]](https://www.youtube.com/embed/QuIYTljvhyg)  [[Code]](https://github.com/tangjiapeng/GAF) 
 
 <b>Monocular and Generalizable Gaussian Talking Head Animation</b> <br> Shengjie Gong, Haojie Li, <b>Jiapeng Tang</b>, Dongming Hu, Shuangping Huang, Hao Chen, Tianshui Chen, Zhuoman Liu. <b>CVPR 2025.</b> [[arXiv]](https://arxiv.org/pdf/2504.00665)  [[Homepage]](https://tangjiapeng.github.io/projects/GAF) [[Video]](https://www.youtube.com/embed/QuIYTljvhyg)  [[Code]](https://github.com/tangjiapeng/GAF) 
@@ -38,5 +39,7 @@ via Topology Modification Networks</b> <br> Junyi Pan, Xiaoguang Han, Weikai Che
 of Complex Topologies from Single RGB Images</b> <br> <b>Jiapeng Tang</b>\*, Xiaoguang Han\*, Junyi Pan, Kui Jia, Xin Tong. <b>CVPR 2019 Oral.</b> [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_A_Skeleton-Bridged_Deep_Learning_Approach_for_Generating_Meshes_of_Complex_CVPR_2019_paper.pdf) [[arXiv]](https://arxiv.org/abs/1903.04704) [[Slides]](http://tangjiapeng.github.io/files/CVPR19_Slides.pdf) [[Code]](https://github.com/Gorilla-Lab-SCUT/SkeletonBridgeRecon)
 
 ## Journal Paper
+<b>Motion2VecSets: Non-Rigid Shape Reconstruction and Tracking with 4D Latent Set Diffusion.</b> <br> <b>Jiapeng Tang</b>, Wei Cao, Biao Zhang, Chang Luo, Yaoyao Liu, Matthias Niessner.  <b> In Submission, 2025.</b>
+
 
 <b>SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images</b> <br> <b>Jiapeng Tang</b>\*, Xiaoguang Han\*, Mingkui Tan, Xin Tong, Kui Jia. <b> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.</b> [[PDF]](https://ieeexplore.ieee.org/document/9448418) [[arXiv]](https://arxiv.org/pdf/2008.05742.pdf) [[Code]](https://github.com/Gorilla-Lab-SCUT/SkeletonNet)
