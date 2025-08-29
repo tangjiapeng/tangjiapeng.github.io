@@ -18,4 +18,4 @@ Prior to my Ph.D., I received my master's Degree in the School of Electronic and
 
 My current research interests focus on Generative Models. Recently, I am working on using diffusion models for Video/Multi-view/3D generation.
 
-<span style="color:red">I'm in the job the market and looking for full-time positions starting in 2026.</span>
+<span style="color:red">I'm in the job market and looking for full-time positions starting in 2026.</span>
