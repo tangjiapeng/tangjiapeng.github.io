@@ -6,10 +6,13 @@ author_profile: true
 \* Joint first author \# Corresponding author
 
 ## Conference Paper
+<b>ROGR: Relightable 3D Objects using Generative Relighting</b> <br> <b>Jiapeng Tang</b>\*, Matthew Lavine\*, Dor Verbin, Stephan J. Garbin, Matthias Nießner, Ricardo Martin Brualla, Pratul P. Srinivasan, Philipp Henzler. <b>NeurIPS 2025 Spotlight.</b> [[arXiv]](https://arxiv.org/abs/2412.10209) [[Homepage]](https://tangjiapeng.github.io/ROGR)  [[Code]](https://tangjiapeng.github.io/ROGR) 
 
 <b>GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion</b> <br> <b>Jiapeng Tang</b>, Davide Davoli, Tobias Kirschstein, Liam Schoneveld, Matthias Nießner. <b>CVPR 2025.</b> [[arXiv]](https://arxiv.org/abs/2412.10209) [[Homepage]](https://tangjiapeng.github.io/projects/GAF) [[Video]](https://www.youtube.com/embed/QuIYTljvhyg)  [[Code]](https://github.com/tangjiapeng/GAF) 
 
 <b>Monocular and Generalizable Gaussian Talking Head Animation</b> <br> Shengjie Gong, Haojie Li, <b>Jiapeng Tang</b>, Dongming Hu, Shuangping Huang, Hao Chen, Tianshui Chen, Zhuoman Liu. <b>CVPR 2025.</b> [[arXiv]](https://arxiv.org/pdf/2504.00665)  [[Homepage]](https://tangjiapeng.github.io/projects/GAF) [[Video]](https://www.youtube.com/embed/QuIYTljvhyg)  [[Code]](https://github.com/tangjiapeng/GAF) 
+
+<b> SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians </b> <br> Liam Schoneveld, Zhe Chen, Davide Davoli, <b>Jiapeng Tang</b>, Saimon Terazawa, Ko Nishino, Matthias Nießner. <b>CVPR 2025.</b> [[arXiv]](https://arxiv.org/pdf/2504.12292)  [[Homepage]](https://nlml.github.io/sheap/) [[Video]](https://www.youtube.com/watch?v=vhXsZJWCBMA) 
 
 <b>KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding</b> <br> Zhihao Xu, Shengjie Gong, <b>Jiapeng Tang</b>, Lingyu Liang, Yining Huang, Haojie Li, Shuangping Huang. <b>ECCV 2024.</b> [[arXiv]](https://arxiv.org/abs/2409.01113)  [[Homepage]](https://tangjiapeng.github.io/projects/GAF) [[Video]](https://www.youtube.com/embed/QuIYTljvhyg)  [[Code]](https://github.com/ffxzh/KMTalk) 
 
