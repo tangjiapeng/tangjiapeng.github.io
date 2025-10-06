@@ -6,7 +6,7 @@ author_profile: true
 \* Joint first author \# Corresponding author
 
 ## Conference Paper
-<b>ROGR: Relightable 3D Objects using Generative Relighting</b> <br> <b>Jiapeng Tang</b>\*, Matthew Lavine\*, Dor Verbin, Stephan J. Garbin, Matthias Nießner, Ricardo Martin Brualla, Pratul P. Srinivasan, Philipp Henzler. <b>NeurIPS 2025 Spotlight.</b> [[arXiv]](https://arxiv.org/abs/2412.10209) [[Homepage]](https://tangjiapeng.github.io/ROGR)  [[Code]](https://tangjiapeng.github.io/ROGR) 
+<b>ROGR: Relightable 3D Objects using Generative Relighting</b> <br> <b>Jiapeng Tang</b>\*, Matthew Lavine\*, Dor Verbin, Stephan J. Garbin, Matthias Nießner, Ricardo Martin Brualla, Pratul P. Srinivasan, Philipp Henzler. <b>NeurIPS 2025 Spotlight.</b> [[arXiv]](https://arxiv.org/pdf/2510.03163) [[Homepage]](https://tangjiapeng.github.io/ROGR)  [[Code]](https://tangjiapeng.github.io/ROGR) 
 
 <b>GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion</b> <br> <b>Jiapeng Tang</b>, Davide Davoli, Tobias Kirschstein, Liam Schoneveld, Matthias Nießner. <b>CVPR 2025.</b> [[arXiv]](https://arxiv.org/abs/2412.10209) [[Homepage]](https://tangjiapeng.github.io/projects/GAF) [[Video]](https://www.youtube.com/embed/QuIYTljvhyg)  [[Code]](https://github.com/tangjiapeng/GAF) 
 
