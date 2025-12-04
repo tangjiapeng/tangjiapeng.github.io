@@ -42,7 +42,4 @@ via Topology Modification Networks</b> <br> Junyi Pan, Xiaoguang Han, Weikai Che
 of Complex Topologies from Single RGB Images</b> <br> <b>Jiapeng Tang</b>\*, Xiaoguang Han\*, Junyi Pan, Kui Jia, Xin Tong. <b>CVPR 2019 Oral.</b> [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_A_Skeleton-Bridged_Deep_Learning_Approach_for_Generating_Meshes_of_Complex_CVPR_2019_paper.pdf) [[arXiv]](https://arxiv.org/abs/1903.04704) [[Slides]](http://tangjiapeng.github.io/files/CVPR19_Slides.pdf) [[Code]](https://github.com/Gorilla-Lab-SCUT/SkeletonBridgeRecon)
 
 ## Journal Paper
-<b>Motion2VecSets: Non-Rigid Shape Reconstruction and Tracking with 4D Latent Set Diffusion.</b> <br> <b>Jiapeng Tang</b>, Wei Cao, Biao Zhang, Chang Luo, Yaoyao Liu, Matthias Niessner.  <b> In Submission, 2025.</b>
-
-
 <b>SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images</b> <br> <b>Jiapeng Tang</b>\*, Xiaoguang Han\*, Mingkui Tan, Xin Tong, Kui Jia. <b> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.</b> [[PDF]](https://ieeexplore.ieee.org/document/9448418) [[arXiv]](https://arxiv.org/pdf/2008.05742.pdf) [[Code]](https://github.com/Gorilla-Lab-SCUT/SkeletonNet)
