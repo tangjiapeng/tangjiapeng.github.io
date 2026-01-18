@@ -16,6 +16,6 @@ I'm a final-year Ph.D. student at the Technical University of Munich, supervised
 
 Prior to my Ph.D., I received my master's Degree in the School of Electronic and Information Engineering, South China University of Technology, under the supervison of [Prof. Kui Jia](http://kuijia.site/) and [Prof. Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/). I received my Bachelor’s Degree in [South China University of Technology](http://www.scut.edu.cn/) (2018).  Between May 2020 and June 2021, I worked as a Research Intern in DAMO Academy, Alibaba, under the supervision of [Prof. Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/). 
 
-My current research interests focus on Generative World Models. Recently, I am working on using diffusion models for Video/Multi-view/3D generation.
+My current research interest is Generative AI. Recently, I have been working on using diffusion models for Video/Multi-view/3D generation.
 
 <span style="color:red">I'm in the job market and looking for full-time positions starting in 2026.</span>
